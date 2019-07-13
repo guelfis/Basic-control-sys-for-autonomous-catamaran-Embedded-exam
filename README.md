@@ -20,6 +20,7 @@ The microcontroller sends a feedback messages back to the control PC to report a
 <li> 50% duty cycle corresponds to 0 RPM, 0% corresponds to -10000 RPM and 100% corresponds to 10000 RPMs</li>
 </ul>
 <li>The propeller installed on the shaft of each motor is rated for maximum RPMs of +-8000. Running the motor above +-8000 RPMs might damage the propeller and must be avoided.</li>
+</ul>
 
 ### Firmware requirements
 <ul>
