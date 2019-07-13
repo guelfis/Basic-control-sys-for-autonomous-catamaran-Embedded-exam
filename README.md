@@ -74,4 +74,4 @@ The microcontroller sends a feedback messages back to the control PC to report a
 <li> $MCACK,msg_type,value* where msg_type is the command (e.g. ENA, SAT), and value is 1 if the message was applied and 0 otherwise (example: $MCACK,SAT,0* for a negative ack to the saturation command)   </li>
 
 
-![dsPIC30F microcontrollerte](/Figures/board.png)
+![dsPIC30F microcontrollerte](/Figures/board.jpg)
